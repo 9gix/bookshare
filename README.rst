@@ -1,4 +1,4 @@
 BookShare
 =========
 
-- `Version Policy <|VERSION.rst|>`_
+- `Version Policy </VERSION.rst>`_
