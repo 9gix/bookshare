@@ -1,0 +1,6 @@
+[submodule "bsweb"]
+	path = bsweb
+	url = git@github.com:9gix/bsweb.git
+[submodule "bsapi"]
+	path = bsapi
+	url = git@github.com:9gix/bsapi.git
